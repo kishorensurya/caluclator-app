@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Form / Function Calculator",
+  "short_name": "Calculator",
+  "description": "A clean, everyday calculator.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf2ef",
+  "theme_color": "#edf2ef",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
